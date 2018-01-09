@@ -7,3 +7,8 @@ h1 {
  color: navy;
  margin-left: 20px;
 }
+
+.Header {
+	padding-top: 20px;
+	text-align: center;
+}
